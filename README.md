@@ -1,2 +1,2 @@
-# Environmental-Temperature-and-Humidity-Control
-Projeto simples para controle de temperatura e umidade em um ambiente.
+# controleTempUmidAmbient
+Projeto de monitoramento de temperatura e umidade do ambiente.
